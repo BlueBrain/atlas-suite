@@ -62,4 +62,3 @@ Useful links:
 
 Pythonic tool (CLI and library) to measure the slice-to-slice jaggedness of a volumetric dataset (NRRD file only).
 
-## Deep Atlas suite
