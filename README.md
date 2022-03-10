@@ -62,3 +62,8 @@ Useful links:
 
 Pythonic tool (CLI and library) to measure the slice-to-slice jaggedness of a volumetric dataset (NRRD file only).
 
+## Deep Atlas Suite
+
+The [Deep Atlas](https://github.com/BlueBrain/Deep-Atlas) is a suite of tools created by the Blue Brain Project to manipulate brain atlas images.
+
+https://github.com/BlueBrain/Deep-Atlas
