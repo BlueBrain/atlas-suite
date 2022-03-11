@@ -6,7 +6,7 @@ A suite to build, analyze and visualize atlases(?)
 - [atlas-placement-hints](#atlas-placement-hints) — Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
 - [atlas-splitter Workflows](#atlas-splitter) — Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
 - [atlas-alignment-meter](#atlas-alignment-meter) — Pythonic tool (CLI and library) to measure the slice-to-slice jaggedness of a volumetric dataset (NRRD file only).
-- [Deep Atlas Suite](#Deep Atlas Suite) — A suite of tools created by the Blue Brain Project to manipulate brain atlas images.
+- [Deep Atlas Suite](#deep-atlas-suite) — A suite of tools created by the Blue Brain Project to manipulate brain atlas images.
 
 
 ## atlas-densities 
