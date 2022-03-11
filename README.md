@@ -73,7 +73,7 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/atlas-alignment-meter),
 [Documentation](https://github.com/BlueBrain/atlas-alignment-meter#readme).
 
-** Pythonic tool (CLI and library) to measure the slice-to-slice jaggedness of a volumetric dataset**
+**Pythonic tool (CLI and library) to measure the slice-to-slice jaggedness of a volumetric dataset**
 
 Measure the displacement of slices in order to smooth the volumetric dataset.
 
