@@ -17,9 +17,14 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/atlas-densities),
 [Documentation](https://github.com/BlueBrain/atlas-densities#readme).
 
-**TBD.**
+**Create the volumetric density data files for brain regions.**
 
-Create the volumetric density data files for brain regions.
+This project contains the tools to create the volumetric density data files the `BBP Cell Atlas`_ is built on.
+For example:
+ * combine AIBS annotation files to reinstate missing mouse brain regions
+ * combine several AIBS gene marker datasets, to be used as hints for the spatial distribution of glia cells
+ * compute cell densities for several cell types including neurons and glia cells in the whole mouse brain
+
 
 ## atlas-direction-vectors
 
@@ -29,10 +34,10 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/atlas-direction-vectors),
 [Documentation](https://github.com/BlueBrain/atlas-direction-vectors#readme).
 
-**TBD.**
+**Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.**
 
-Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
-
+This project is used to create direction vectors for several brain regions including the cerebellum, the isocortex, and the thalamus of the AIBS P56 mouse brain. Direction vectors are 3D unit vectors associated to voxels of a brain region.
+They represent the directions that cross transversely the layers in laminar brain regions.
 
 ## atlas-placement-hints
 
@@ -42,10 +47,10 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/atlas-placement-hints),
 [Documentation](https://github.com/BlueBrain/atlas-placement-hints#readme).
 
-**TBD.**
+**Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.**
 
-Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
-
+This project contains tools to compute placement hints.
+`Placement hints` give approximate distances, per voxel, to different layers within the context of a laminar brain region.
 
 ## atlas-splitter
 
@@ -55,10 +60,11 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/atlas-splitter),
 [Documentation](https://github.com/BlueBrain/atlas-splitter#readme).
 
-**TBD.**
+**Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.**
 
-Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
-
+This project contains tools to split brain atlas regions and refine annotations accordingly.
+For example, this can be used to split the layer 2/3 of the AIBS mouse isocortex and save modified hierarchy and annotation files.
+     
 ## atlas-alignment-meter
 
 <img alt="Atlas-Alignment-Meter Banner" src="https://github.com/BlueBrain/atlas-suite/raw/main/images/BBP-Atlas-Alignment-Meter.jpg" width="600"/>
