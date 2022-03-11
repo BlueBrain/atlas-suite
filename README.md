@@ -1,5 +1,5 @@
 # Atlas Suite
-A suite to build, analyze and visualize atlases(?)
+A suite to build, analyze volumetric brain atlases.
 
 - [atlas-densities](#atlas-densities) — Create the volumetric density data files for brain regions.
 - [atlas-direction-vectors](#atlas-direction-vectors) — Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
@@ -73,9 +73,9 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/atlas-alignment-meter),
 [Documentation](https://github.com/BlueBrain/atlas-alignment-meter#readme).
 
-**TBD.**
+** Pythonic tool (CLI and library) to measure the slice-to-slice jaggedness of a volumetric dataset**
 
-Pythonic tool (CLI and library) to measure the slice-to-slice jaggedness of a volumetric dataset (NRRD file only).
+Measure the displacement of slices in order to smooth the volumetric dataset.
 
 ## Deep Atlas Suite
 
