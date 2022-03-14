@@ -19,7 +19,7 @@ Useful links:
 
 **Create the volumetric density data files for brain regions.**
 
-This project contains the tools to create the volumetric density data files the `BBP Cell Atlas`_ is built on.
+This project contains the tools to create the volumetric density data files the `BBP Cell Atlas` is built on.
 For example:
  * combine AIBS annotation files to reinstate missing mouse brain regions
  * combine several AIBS gene marker datasets, to be used as hints for the spatial distribution of glia cells
