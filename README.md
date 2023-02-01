@@ -7,7 +7,7 @@ A suite to build, analyze volumetric brain atlases.
 - [atlas-splitter Workflows](#atlas-splitter) — Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
 - [atlas-alignment-meter](#atlas-alignment-meter) — Pythonic tool (CLI and library) to measure the slice-to-slice jaggedness of a volumetric dataset (NRRD file only).
 - [Deep Atlas Suite](#deep-atlas-suite) — A suite of tools created by the Blue Brain Project to manipulate brain atlas images.
-
+- [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
 
 ## atlas-densities 
 
@@ -82,3 +82,15 @@ Measure the displacement of slices in order to smooth the volumetric dataset.
 The [Deep Atlas](https://github.com/BlueBrain/Deep-Atlas) is a suite of tools created by the Blue Brain Project to manipulate brain atlas images.
 
 https://github.com/BlueBrain/Deep-Atlas
+
+## BioExplorer
+<img alt="BioExplorer Banner" src="https://github.com/BlueBrain/BioExplorer/raw/master/bioexplorer/pythonsdk/notebooks/bioexplorer_banner.png" width="600"/>
+
+**The Blue Brain BioExplorer is a tool for scientists to extract and analyze scientific data for visualization and interactive exploration**
+
+Exploration relies on building software that combines data integration, analysis and interactive visualization to build, modify and navigate through large scientific datasets. For this, Blue Brain built and open-sourced the Blue Brain BioExplorer. It was originally developed to answer key scientific questions related to the Coronavirus as a use case and to deliver a visualization tool. Today, the BioExplorer allows to reconstruct, visualize, explore and describe in detail the structure and function of highly-detailed biological structures such as molecular systems, neurons, astrocytes, blood vessels, and more. You can see the first application of the BioExplorer in [A Machine-Generated View of the Role of Blood Glucose Levels in the Severity of COVID-19](https://www.frontiersin.org/articles/10.3389/fpubh.2021.695139/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE) study.
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/BioExplorer),
+[Documentation](https://bluebrain.github.io/BioExplorer/).
+
